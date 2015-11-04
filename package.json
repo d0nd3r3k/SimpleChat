@@ -1,11 +1,11 @@
 {
-	"name": "RealTimeWebChat",
-	"version": "0.0.0",
-	"description": "Real time web chat",
+	"name": "simpleChat",
+	"version": "0.0.1",
+	"description": "web chat boilerplate with Node.js and Socket.io",
 	"dependencies": {
-		"socket.io": "latest",
-		"express": "latest",
-		"jade": "latest"
+		"socket.io": "0.9.14",
+		"express": "3.2.4",
+		"jade": "0.30.0"
 	},
-	"author": "developer"
+	"author": "Donald Derek Haddad <ddh@mit.edu>"
 }
